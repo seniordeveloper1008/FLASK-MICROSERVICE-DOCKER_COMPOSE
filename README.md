@@ -1,4 +1,4 @@
-# Creating a multi-microservice application deployed using docker-compose
+# Creating a multi-microservice application deployed using docker-compose and docker
 
 Typically I skip any guide that requires me to make external accounts or has any propriety dependencies, so this guide doesn’t require any of that, and the end result will be deployed on local, so no need to worry about making trial accounts with cloud hosts.
 
